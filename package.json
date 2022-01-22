@@ -1,0 +1,22 @@
+{
+  "name": "gojek-auto-regis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "delay": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.0",
+    "prompt-sync": "^4.2.0",
+    "sms-activate": "^1.0.1",
+    "uuid": "^8.3.2"
+  }
+}
